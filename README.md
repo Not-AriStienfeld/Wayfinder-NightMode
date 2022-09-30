@@ -52,3 +52,6 @@ If you like the app – and maybe support further development – feel free to m
 
 [![name](https://i.ibb.co/fnR0zd1/donate.png)](https://www.paypal.com/donate/?hosted_button_id=XG74YTYPGZRFL)
 
+
+
+credits for night mode: Ari Steinfeld (@Not-AriStienfeld)
